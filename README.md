@@ -1,2 +1,1 @@
-# hello
-hello everyone ,my name is gai haisong.
+产生需要的棋盘格图像
